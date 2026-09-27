@@ -8,7 +8,7 @@
 <h3 align="center">Namaste 🙏 I'm Vinit Chaurasia</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Science+%2B+ML+%2B+Google+Cloud+%E2%98%81%EF%B8%8F;Gen+AI+Engineer+%7C+BSc+%40+AEC+%2728+%F0%9F%8E%93;Shipped+4+Production-Grade+AI+Projects+%F0%9F%94%A5;Google+Certified+Cloud+%26+Data+Engineer+%E2%9A%A1;Open+to+AI%2FML+%26+Data+Science+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Top+50+Across+APAC+%E2%80%94+Google+%F0%9F%8F%86;Data+Science+%2B+ML+%2B+Google+Cloud+%E2%98%81%EF%B8%8F;Gen+AI+Engineer+%7C+BSc+%40+AEC+%2728+%F0%9F%8E%93;Shipped+4+Production-Grade+AI+Projects+%F0%9F%94%A5;Google+Certified+Cloud+%26+Data+Engineer+%E2%9A%A1;Open+to+AI%2FML+%26+Data+Science+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <hr/>
@@ -25,6 +25,7 @@
 <img align="right" alt="coding-gif" width="380" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/transparent_gitgif.gif" />
 
 <p align="left">
+  🏆 <b>Ranked Top 50 across APAC</b> — Google<br>
   🌟 <b>Pursuing B.Sc. in Data Science</b> at <b>Asansol Engineering College</b> ('28)<br>
   ⚡ <b>Shipped 4 production-grade AI projects</b> across GenAI, NLP, Computer Vision & IoT<br>
   💡 <b>Gen AI Cash Flow Radar:</b> AI-powered financial tool built with Gemini API, LangChain, BigQuery & Cloud Run<br>

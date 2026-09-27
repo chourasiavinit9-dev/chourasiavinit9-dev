@@ -6,51 +6,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=60EFFF&center=true&vCenter=true&width=620&lines=Data+Science+%2B+Machine+Learning+%2B+Google+Cloud+%E2%98%81%EF%B8%8F;Gen+AI+Engineer+%7C+BSc+%40+AEC+%2728+%F0%9F%8E%93;Shipped+4+Production-Grade+AI+Projects+%F0%9F%94%A5;Google+Certified+Cloud+%26+Data+Engineer+%E2%9A%A1;Open+to+AI%2FML+%7C+Data+Science+%7C+Analytics+Roles+%F0%9F%A4%9D" alt="Typing SVG" />
 
-<h3><div align="center">
+<h3>&#x1F1EE;&#x1F1F3; Asansol, West Bengal, India &nbsp;|&nbsp; BSc Data Science @ AEC '28 &nbsp;|&nbsp; 3rd Year</h3>h3>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Vinit%20Chaurasia&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Built%20Gen%20AI%20tools%20used%20by%20real%20businesses%20%F0%9F%9A%80&descAlignY=60&descSize=17&descColor=60efff" />
+<br/>
 
-  <br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=60EFFF&center=true&vCenter=true&width=620&lines=Data+Science+%2B+Machine+Learning+%2B+Google+Cloud+%E2%98%81%EF%B8%8F;Gen+AI+Engineer+%7C+BSc+%40+AEC+%2728+%F0%9F%8E%93;Shipped+4+Production-Grade+AI+Projects+%F0%9F%94%A5;Google+Certified+Cloud+%26+Data+Engineer+%E2%9A%A1;Open+to+AI%2FML+%7C+Data+Science+%7C+Analytics+Roles+%F0%9F%A4%9D" alt="Typing SVG" />
-
-  <h3>&#x1F1EE;&#x1F1F3; Asansol, West Bengal, India &nbsp;|&nbsp; BSc Data Science @ AEC '28 &nbsp;|&nbsp; 3rd Year</h3>h3>
-  
-  <br/>
-  
-  <a href="https://linkedin.com/in/vinit-chaurasia-177b4b33b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>a>
-  <a href="mailto:chourasiavinit9@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>a>
-  <a href="https://github.com/chourasiavinit9-dev" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>a>
-  <a href="https://instagram.com/_vinit94" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>a>
-  <img src="https://komarev.com/ghpvc/?username=chourasiavinit9-dev&label=Profile+Views&color=60efff&style=for-the-badge"/>
-
-  </div>
-
-  <hr/>
-
-  ## &#x1F9E0; About Me
-
-  ```python
-vinit = {
-    "name"       : "Vinit Chaurasia",?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/vinit-chaurasia-177b4b33b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>a>
 <a href="mailto:chourasiavinit9@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>a>
 <a href="https://github.com/chourasiavinit9-dev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>a>
 <a href="https://instagram.com/_vinit94" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>a>
 <img src="https://komarev.com/ghpvc/?username=chourasiavinit9-dev&label=Profile+Views&color=60efff&style=for-the-badge"/>
 
 </div>
@@ -257,19 +228,4 @@ vinit = {
 
         </div>
       </picture>
-    "college"    : "Asansol Engineering College (AEC) <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Vinit%20Chaurasia&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Built%20Gen%20AI%20tools%20used%20by%20real%20businesses%20%F0%9F%9A%80&descAlignY=60&descSize=17&descColor=60efff" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=60EFFF&center=true&vCenter=true&width=620&lines=Data+Science+%2B+Machine+Learning+%2B+Google+Cloud+%E2%98%81%EF%B8%8F;Gen+AI+Engineer+%7C+BSc+%40+AEC+%2728+%F0%9F%8E%93;Shipped+4+Production-Grade+AI+Projects+%F0%9F%94%A5;Google+Certified+Cloud+%26+Data+Engineer+%E2%9A%A1;Open+to+AI%2FML+%7C+Data+Science+%7C+Analytics+Roles+%F0%9F%A4%9D" alt="Typing SVG" />
-
-<h3>&#x1F1EE;&#x1F1F3; Asansol, West Bengal, India &nbsp;|&nbsp; BSc Data Science @ AEC '28 &nbsp;|&nbsp; 3rd Year</h3>
-
-<br/>
-
-<a href="https://linkedin.com/in/vinit-chaurasia-177b4b33b" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5
-  </h3>
 </h3>

@@ -3,9 +3,8 @@
 </div>
 
 <h1 align="center">
-  <font color="#38BDF8">Vinit Chaurasia</font> here 🔥 !
+  <font color="#38BDF8">Vinit Chaurasia</font>
 </h1>
-<h3 align="center">Namaste 🙏 I'm Vinit Chaurasia</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Top+50+Across+APAC+--+Google;Data+Science+%2B+ML+%2B+Google+Cloud;Gen+AI+Engineer+%7C+BSc+%40+AEC+%2728;Shipped+4+Production-Grade+AI+Projects;Google+Certified+Cloud+%26+Data+Engineer;Open+to+AI%2FML+%26+Data+Science+Roles" alt="Typing SVG" />

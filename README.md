@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=60EFFF&center=true&vCenter=true&width=620&lines=Data+Science+%2B+Machine+Learning+%2B+Google+Cloud+%E2%98%81%EF%B8%8F;Gen+AI+Engineer+%7C+BSc+%40+AEC+%2728+%F0%9F%8E%93;Shipped+4+Production-Grade+AI+Projects+%F0%9F%94%A5;Google+Certified+Cloud+%26+Data+Engineer+%E2%9A%A1;Open+to+AI%2FML+%7C+Data+Science+%7C+Analytics+Roles+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=60EFFF&center=true&vCenter=true&width=700&lines=Data+Science+%2B+ML+%2B+Google+Cloud+%E2%98%81%EF%B8%8F;Gen+AI+Engineer+%7C+BSc+%40+AEC+%2728+%F0%9F%8E%93;Shipped+4+Production-Grade+AI+Projects+%F0%9F%94%A5;Google+Certified+Cloud+%26+Data+Engineer+%E2%9A%A1;Open+to+AI%2FML+%26+Data+Science+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 
 <h3>🇮🇳 Asansol, West Bengal, India &nbsp;|&nbsp; BSc Data Science @ AEC '28 &nbsp;|&nbsp; 3rd Year</h3>
 

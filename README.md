@@ -53,15 +53,15 @@ vinit = {
 ## &#x1F310; Connect with Me
 
 <p align="left">
-    <a href="https://linkedin.com/in/vinit-chaurasia-177b4b33b" target="blank">
+    <a href="https://linkedin.com/in/vinit-chaurasia-177b4b33b" target="_blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Vinit Chaurasia" height="30" width="40"/>
     </a>a>
     &nbsp;
-    <a href="https://instagram.com/_vinit94" target="blank">
+    <a href="https://instagram.com/_vinit94" target="_blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - _vinit94" height="30" width="40"/>
     </a>a>
     &nbsp;
-    <a href="mailto:chourasiavinit9@gmail.com" target="blank">
+    <a href="mailto:chourasiavinit9@gmail.com" target="_blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40"/>
     </a>a>
 </p>p>
@@ -179,53 +179,51 @@ vinit = {
   ## &#x1F3C6; GitHub Trophies
 
   <div align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=chourasiavinit9-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies"/>
+  </div>div>
 
-    ![Trophies](https://github-profile-trophy.vercel.app/?username=chourasiavinit9-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)
+  <hr/>
 
-    </div>
+  ## &#x1F4C8; Contribution Activity
 
-    <hr/>
+  <div align="center">
+      <a href="https://github.com/chourasiavinit9-dev">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=chourasiavinit9-dev&theme=react-dark&bg_color=0d1117&color=60efff&line=60efff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+      </a>a>
+  </div>div>
 
-    ## &#x1F4C8; Contribution Activity
+  <hr/>
 
-    <div align="center">
+  ## &#x1F4AC; Random Dev Quote
 
-    [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chourasiavinit9-dev&theme=react-dark&bg_color=0d1117&color=60efff&line=60efff&point=ffffff&area=true&hide_border=true)](https://github.com/chourasiavinit9-dev)
+  > *"The act of describing a program in unambiguous detail and the act of programming are one and the same."*
+> > - **Kevlin Henney**
+> >
+> > - <hr/>
 
-    </div>
+<div align="center">
 
-    <hr/>
+  **&#x1F4A1; Open to: Data Science . AI/ML Engineering . Data Analytics roles**
 
-    ## &#x1F4AC; Random Dev Quote
+  *AI-first product companies . Fintech . Healthtech . Remote international teams*
 
-    > *"The act of describing a program in unambiguous detail and the act of programming are one and the same."*
-    > - **Kevlin Henney**
+  <br/>
 
-    <hr/>
-
-    <div align="center">
-
-    **&#x1F4A1; Open to: Data Science . AI/ML Engineering . Data Analytics roles**
-
-    *AI-first product companies . Fintech . Healthtech . Remote international teams*
-
-    <br/>
-
-    <a href="https://linkedin.com/in/vinit-chaurasia-177b4b33b">
+  <a href="https://linkedin.com/in/vinit-chaurasia-177b4b33b">
       <img src="https://img.shields.io/badge/DM%20me%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      &nbsp;
-      <a href="mailto:chourasiavinit9@gmail.com">
-        <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-        </a>
+  </a>a>
+  &nbsp;
+  <a href="mailto:chourasiavinit9@gmail.com">
+      <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>a>
 
-        <br/><br/>
-        <sub>&#x26A1; I respond within 24 hours.</sub>
+  <br/><br/>
+  <sub>&#x26A1; I respond within 24 hours.</sub>
 
-        <br/><br/>
+  <br/><br/>
 
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn"/>
 
-        </div>
+  </div>
       </picture>
 </h3>

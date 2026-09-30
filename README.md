@@ -37,10 +37,12 @@
 <br/>
 
 <div align="left">
-  <b>🌟 Follow Me on:</b>&nbsp;&nbsp;
-  <a href="mailto:chourasiavinit9@gmail.com"><img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <b>🌟 Connect with Me:</b>&nbsp;&nbsp;
+  <a href="https://github.com/chourasiavinit9-dev"><img height="28" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   &nbsp;
   <a href="https://linkedin.com/in/vinit-chaurasia-177b4b33b" target="_blank"><img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:chourasiavinit9@gmail.com"><img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   &nbsp;
   <a href="https://instagram.com/_vinit94" target="_blank"><img height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
@@ -92,6 +94,41 @@
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chourasiavinit9-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=60efff&text_color=ffffff" alt="Top Languages"/>
+</div>
+
+<hr/>
+
+<!-- GitHub Achievements -->
+<h2 align="center">🎖️ GitHub Achievements</h2>
+
+<div align="center">
+  <a href="https://github.com/chourasiavinit9-dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="90" alt="Pull Shark" title="Pull Shark: Merged Pull Requests"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/chourasiavinit9-dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="90" alt="Quickdraw" title="Quickdraw: Closed Issue / PR in < 5 mins"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/chourasiavinit9-dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="90" alt="YOLO" title="YOLO: Merged PR without code review"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/chourasiavinit9-dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored commits in merged PR"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/chourasiavinit9-dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="90" alt="Starstruck" title="Starstruck: Created repository with stargazers"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/chourasiavinit9-dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="90" alt="Galaxy Brain" title="Galaxy Brain: Community answer accepted"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/chourasiavinit9-dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="90" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor"/>
+  </a>
 </div>
 
 <hr/>
